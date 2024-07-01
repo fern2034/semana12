@@ -1,0 +1,41 @@
+
+        body {
+            background-image: url(../imagenes/grim.jpeg);
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 100;
+            padding: 100;
+        }
+        div {
+            background-color: #ffbb00;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #e6feff;
+            color: #000000;
+            padding: 40px;
+            text-align: center;
+            text-align: center;
+            background-color: rgb(255, 174, 0) ;
+            margin: 10px;
+            border-radius: 10px;
+            width: 150px;
+            height: 250px;
+            position: absolute;
+            top: 100px;
+            left: 100px;
+            transform: translate(320%, 58%);
+
+        }
+        footer {
+            background-color: #ffc400;
+            color: #fffefe;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        
